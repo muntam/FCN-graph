@@ -5,5 +5,5 @@ This project aims to extract some meaningful graph theoretic features from a fun
 
 Required data set can be found in 'FCNdata.zip ' folder. For any information, please send me an email at muniatam(AT)msu(DOT)edu
 
-Manuscript & Citation
+# Manuscript & Citation
 If you use these scripts, please cite: Munia, T. T. K., & Aviyente, S. (2019). Graph-to-signal transformation based classification of functional connectivity brain networks. PloS one, 14(8).
